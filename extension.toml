@@ -1,0 +1,7 @@
+id = "night-owl-darkness-extend"
+name = "Night Owlify Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["muhrusdi"]
+description = "Night Owlify Dark"
+repository = "https://github.com/your-name/my-zed-extension"

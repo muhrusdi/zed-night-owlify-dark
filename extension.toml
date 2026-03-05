@@ -1,7 +1,9 @@
+[my-extension]
+submodule = "extensions/night-owlify-dark"
+version = "0.0.1"
 id = "night-owlify-dark-theme"
 name = "Night Owlify Dark"
-version = "0.0.1"
 schema_version = 1
 authors = ["muhrusdi"]
 description = "Night Owlify Dark"
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/muhrusdi/zed-night-owlify-dark"

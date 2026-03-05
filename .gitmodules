@@ -1,0 +1,3 @@
+[submodule "extensions/night-owlify-dark"]
+	path = extensions/night-owlify-dark
+	url = https://github.com/muhrusdi/zed-night-owlify-dark.git
